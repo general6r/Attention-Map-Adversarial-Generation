@@ -9,4 +9,5 @@ The paper shows how we can find the pixels that have the most influence on the m
 In the second part, we explore the impact of two different adversarial attack on the model prediction, specifically the fast gradient sign method and the iterative gradient sign method. I encourage you to read through these two articles before you start read the code. 
 
 1- Title: "ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD" (https://arxiv.org/pdf/1607.02533)
+
 2- Title: "EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES" (https://arxiv.org/pdf/1412.6572)
