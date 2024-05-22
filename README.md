@@ -1,4 +1,4 @@
-# Attention-map-Adversarial-generation
+# Attention-map-/Adversarial-generation
  
 This a very exciting educational project in which you'll see how gradients can be used for a few related tasks, namely to explain which portion of the input the model relied on for making its classification and for creating adversarial examples. In the first part of the project, I explain the method discussed in this paper:
 
